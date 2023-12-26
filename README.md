@@ -12,4 +12,4 @@ Vector DataBase: FAISS CPU
 
 Dataset: PDF (Pregnancy Encyclopedia, Baby Care Encyclopedia)
 
-![image](https://github.com/sreejacb/Pregnency_Companion_Bot-/assets/101924446/2ae4b2f3-791f-4578-ba8a-0f70bf185ba8)
+![image](https://github.com/sreejacb/Pregnency_Companion_Bot-/assets/101924446/b2d8f676-9d92-4b72-9455-62c5108865de)
